@@ -77,37 +77,43 @@ sections:
       title: Helpful Sites
       fontSize: 32
     cards:
-      - subtitle: 2!=2
+      - subtitle: "[2!=2](https://chocobear.tistory.com/)"
         subtitlePosition: center
         description: "Where this blog came from"
         image: favicon/gshs-192x192.png
         height: 192
+        color: black
         button: 
           name: "2!=2"
           link: https://chocobear.tistory.com/
           size: large
           target: _blank
           bgcolor: '#EEEEEE'
-      - subtitle: GSHS TeX Society
-        subtitlePosition: center
-        description: "Making TeX documents...."
-        image: images/cslab.png
-        height: 192
-        button: 
-          name: LATEX
-          link: http://latex.gs.hs.kr/
-          size: large
-          target: _blank
-          bgcolor: '#EEEEEE'
-      - subtitle: Arnold518
+          color: black
+      - subtitle: "[Arnold518](https://arnold518.tistory.com/)"
         subtitlePosition: center
         description: "J. Park's PS Blog"
         image: images/latex.png
         height: 192
+        color: black
         button: 
           name: Arnold518
           link: https://arnold518.tistory.com/
           size: large
           target: _blank
           bgcolor: '#EEEEEE'
+          color: black
+      - subtitle: "[GSHS TeX Society](http://latex.gs.hs.kr/)"
+        subtitlePosition: center
+        description: "Making TeX documents...."
+        image: favicon/gshs-192x192.png
+        height: 192
+        color: black
+        button: 
+          name: LATEX
+          link: http://latex.gs.hs.kr/
+          size: large
+          target: _blank
+          bgcolor: '#EEEEEE'
+          color: black
 ---
