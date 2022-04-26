@@ -67,7 +67,7 @@ footer:
 
 sections:
   - type: normal
-    text: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
+    description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     color: black
     header: 
       title: What is GongJaWal?
@@ -81,7 +81,7 @@ sections:
       color: black
       fontSize: 32
     cards:
-      - subtitle: a
+      - subtitle: " "
         subtitlePosition: center
         description: "Where this blog came from"
         image: favicon/gshs-192x192.png
@@ -94,7 +94,7 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
-      - subtitle: v
+      - subtitle: " "
         subtitlePosition: center
         description: "J. Park's PS Blog"
         image: favicon/gshs-192x192.png
@@ -107,7 +107,7 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
-      - subtitle: c
+      - subtitle: " "
         subtitlePosition: center
         description: "Making TeX documents...."
         image: images/latex.png
@@ -120,4 +120,11 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
+  - type: normal
+    description: " "
+    color: black
+    header: 
+      title: ""
+      color: black
+      fontSize: 32
 ---
