@@ -73,7 +73,7 @@ sections:
       color: '#fff'
       fontSize: 32
     cards:
-      - subtitle: Gyeonggi Science High School
+      - subtitle: GSHS
         subtitlePosition: center
         description: "Gyeonggi Science High School for the Gifted: The First, The Best"
         image: images/section/keyboard.png
