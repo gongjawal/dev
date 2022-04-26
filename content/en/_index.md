@@ -66,7 +66,7 @@ footer:
       Copyright © 2022. All rights reserved.
 
 sections:
-  - bgcolor: '#EEEEEE'
+  - bgcolor: white
     type: card
     description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     header: 
@@ -78,50 +78,50 @@ sections:
         subtitlePosition: center
         description: "Gyeonggi Science High School for the Gifted: The First, The Best"
         image: images/section/keyboard.png
-        color: white
+        color: black
         button: 
           name: GSHS
           link: https://gs.hs.kr/
           size: large
           target: _blank
-          color: 'white'
+          color: black
           bgcolor: '#EEEEEE'
       - subtitle: GSHS TeX Society
         subtitlePosition: center
         description: "Making TeX documents...."
         image: images/section/processor.png
-        color: white
+        color: black
         button: 
           name: LATEX
           link: http://latex.gs.hs.kr/
           size: large
           target: _blank
-          color: 'white'
+          color: black
           bgcolor: '#EEEEEE'
       - subtitle: GSHS CSLAB
         subtitlePosition: center
         description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
         image: images/section/root-server.png
-        color: white
+        color: black
         button: 
           name: CSLAB
           link: http://cslab.gs.hs.kr/
           size: large
           target: _blank
-          color: 'white'
+          color: black
           bgcolor: '#EEEEEE'
-  - bgcolor: white
+  - bgcolor: '#4F3E0B'
     type: normal
     description: "chocobear!"
     header:
       title: "Visit Our Original Blog: 2!=2"
-      color: black
+      color: white
       fontSize: 32
     body:
       subtitle: Extensive Abstract Math with some Informatics
       subtitlePosition: left
       description: "chocobear!"
-      color: black
+      color: white
       image: images/section/root-server.png
       imagePosition: left
 ---
