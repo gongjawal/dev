@@ -17,7 +17,7 @@ landing:
   buttons:
     - link: docs
       text: "Docs"
-      bgcolor: '#FFFFFF'
+      color: '#FFFFFF'
     - link: blog
       text: "Blog"
     - link: updates
@@ -66,8 +66,7 @@ footer:
       Copyright © 2022. All rights reserved.
 
 sections:
-  - bgcolor: white
-    type: card
+  - type: card
     description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     header: 
       title: What is GongJaWal?
