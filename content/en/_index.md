@@ -68,16 +68,20 @@ footer:
 sections:
   - type: normal
     text: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
+    color: black
     header: 
       title: What is GongJaWal?
+      color: black
       fontSize: 32
   - type: card
     description: "Helpful GSHS Websites for Researchers"
+    color: black
     header: 
       title: Helpful Sites
+      color: black
       fontSize: 32
     cards:
-      - subtitle: "[2!=2](https://chocobear.tistory.com/)"
+      - subtitle: [2!=2](https://chocobear.tistory.com/)
         subtitlePosition: center
         description: "Where this blog came from"
         image: favicon/gshs-192x192.png
@@ -90,10 +94,10 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
-      - subtitle: "[Arnold518](https://arnold518.tistory.com/)"
+      - subtitle: [Arnold518](https://arnold518.tistory.com/)
         subtitlePosition: center
         description: "J. Park's PS Blog"
-        image: images/latex.png
+        image: favicon/gshs-192x192.png
         height: 192
         color: black
         button: 
@@ -103,10 +107,10 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
-      - subtitle: "[GSHS TeX Society](http://latex.gs.hs.kr/)"
+      - subtitle: [GSHS TeX Society](http://latex.gs.hs.kr/)
         subtitlePosition: center
         description: "Making TeX documents...."
-        image: favicon/gshs-192x192.png
+        image: images/latex.png
         height: 192
         color: black
         button: 
