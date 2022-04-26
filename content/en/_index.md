@@ -67,57 +67,47 @@ footer:
 
 sections:
   - type: normal
-    description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
-    color: black
+    text: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     header: 
       title: What is GongJaWal?
-      color: black
       fontSize: 32
   - type: card
-    description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
-    color: black
+    description: "Helpful GSHS Websites for Researchers"
     header: 
-      title: What is GongJaWal?
-      color: black
+      title: Helpful Sites
       fontSize: 32
     cards:
-      - subtitle: GSHS
+      - subtitle: 2!=2
         subtitlePosition: center
-        description: "Gyeonggi Science High School for the Gifted: The First, The Best"
+        description: "Where this blog came from"
         image: favicon/gshs-192x192.png
-        width: 192
-        color: black
+        height: 192
         button: 
-          name: GSHS
-          link: https://gs.hs.kr/
+          name: "2!=2"
+          link: https://chocobear.tistory.com/
           size: large
           target: _blank
-          color: black
           bgcolor: '#EEEEEE'
       - subtitle: GSHS TeX Society
         subtitlePosition: center
         description: "Making TeX documents...."
         image: images/cslab.png
-        width: 192
-        color: black
+        height: 192
         button: 
           name: LATEX
           link: http://latex.gs.hs.kr/
           size: large
           target: _blank
-          color: black
           bgcolor: '#EEEEEE'
-      - subtitle: GSHS CSLAB
+      - subtitle: Arnold518
         subtitlePosition: center
-        description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
+        description: "J. Park's PS Blog"
         image: images/latex.png
-        width: 192
-        color: black
+        height: 192
         button: 
-          name: CSLAB
-          link: http://cslab.gs.hs.kr/
+          name: Arnold518
+          link: https://arnold518.tistory.com/
           size: large
           target: _blank
-          color: black
           bgcolor: '#EEEEEE'
 ---
