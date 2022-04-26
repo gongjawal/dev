@@ -81,7 +81,7 @@ sections:
       color: black
       fontSize: 32
     cards:
-      - subtitle: [2!=2](https://chocobear.tistory.com/)
+      - subtitle: a
         subtitlePosition: center
         description: "Where this blog came from"
         image: favicon/gshs-192x192.png
@@ -94,7 +94,7 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
-      - subtitle: [Arnold518](https://arnold518.tistory.com/)
+      - subtitle: v
         subtitlePosition: center
         description: "J. Park's PS Blog"
         image: favicon/gshs-192x192.png
@@ -107,7 +107,7 @@ sections:
           target: _blank
           bgcolor: '#EEEEEE'
           color: black
-      - subtitle: [GSHS TeX Society](http://latex.gs.hs.kr/)
+      - subtitle: c
         subtitlePosition: center
         description: "Making TeX documents...."
         image: images/latex.png
