@@ -117,10 +117,7 @@ sections:
       color: white
       fontSize: 32
     body:
-      subtitle: Extensive Abstract Math with some Informatics
-      subtitlePosition: left
-      description: "chocobear!"
+      title: Extensive Abstract Math with some Informatics
+      description: [2!=2 Blog](https://chocobear.tistory.com/)
       color: white
-      image: images/section/root-server.png
-      imagePosition: left
 ---
