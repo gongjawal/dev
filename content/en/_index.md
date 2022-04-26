@@ -68,6 +68,7 @@ footer:
 sections:
   - type: card
     description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
+    color: black
     header: 
       title: What is GongJaWal?
       color: black
