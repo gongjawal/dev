@@ -1,5 +1,5 @@
 ---
-title: GongJaWal_Ko
+title: GongJaWal
 description: 공대생과 자대생이 왈왈 짖는 블로그
 date: 2020-01-26T04:15:05+09:00
 draft: false
@@ -16,7 +16,7 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: "YES!"
+      text: "공자왈!"
       color: primary
   # backgroundImage: 
   #   src: images/landscape.jpg
@@ -70,9 +70,8 @@ sections:
       hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
-      width: 220
     cards:
-      - subtitle: Gyeonggi Science High School
+      - subtitle: GSHS
         subtitlePosition: center
         description: "Gyeonggi Science High School for the Gifted: The First, The Best"
         image: images/section/keyboard.png
@@ -113,11 +112,9 @@ sections:
     description: "chocobear!"
     header:
       title: "Visit Out Original Blog: 2!=2"
-      link: https://chocobear.tistory.com/
       hlcolor: DarkKhaki
       color: "#fff"
       fontSize: 32
-      width: 340
     body:
       subtitle: Extensive Abstract Math with some Informatics
       subtitlePosition: left

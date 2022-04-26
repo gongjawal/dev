@@ -16,7 +16,7 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: "YES!"
+      text: "GongJaWal!"
       color: primary
   # backgroundImage: 
   #   src: images/landscape.jpg
@@ -70,7 +70,6 @@ sections:
       hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
-      width: 220
     cards:
       - subtitle: Gyeonggi Science High School
         subtitlePosition: center
@@ -113,11 +112,9 @@ sections:
     description: "chocobear!"
     header:
       title: "Visit Out Original Blog: 2!=2"
-      link: https://chocobear.tistory.com/
       hlcolor: DarkKhaki
       color: "#fff"
       fontSize: 32
-      width: 340
     body:
       subtitle: Extensive Abstract Math with some Informatics
       subtitlePosition: left
