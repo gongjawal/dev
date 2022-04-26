@@ -14,18 +14,6 @@ landing:
   titleColor:
   textColor:
   spaceBetweenTitleText: 25k
-  button: 
-    text: "Docs"
-    link: docs
-    size: large
-  button: 
-    text: "Blog"
-    link: blog
-    size: large
-  button: 
-    text: "Updates"
-    link: updates
-    size: large
   # buttons:
   #  - link: docs
   #    text: "Docs"
@@ -90,6 +78,7 @@ sections:
         subtitlePosition: center
         description: "Gyeonggi Science High School for the Gifted: The First, The Best"
         image: favicon/gshs-192x192.png
+        width: 192
         color: black
         button: 
           name: GSHS
@@ -102,6 +91,7 @@ sections:
         subtitlePosition: center
         description: "Making TeX documents...."
         image: images/cslab.png
+        width: 192
         color: black
         button: 
           name: LATEX
@@ -114,6 +104,7 @@ sections:
         subtitlePosition: center
         description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
         image: images/latex.png
+        width: 192
         color: black
         button: 
           name: CSLAB
