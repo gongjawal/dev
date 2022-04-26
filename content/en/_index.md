@@ -67,7 +67,6 @@ sections:
     description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     header: 
       title: What is GongJaWal?
-      hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
     cards:
@@ -112,7 +111,6 @@ sections:
     description: "chocobear!"
     header:
       title: "Visit Out Original Blog: 2!=2"
-      hlcolor: DarkKhaki
       color: "#fff"
       fontSize: 32
     body:
