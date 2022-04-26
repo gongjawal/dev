@@ -91,7 +91,7 @@ sections:
         button: 
           name: LATEX
           link: http://latex.gs.hs.kr/
-          size: large
+          size: large 
           target: _blank
           color: 'white'
           bgcolor: '#283593'
