@@ -126,15 +126,4 @@ sections:
           target: _blank
           color: black
           bgcolor: '#EEEEEE'
-  - bgcolor: '#4F3E0B'
-    type: normal
-    description: "chocobear!"
-    header:
-      title: "Visit Our Original Blog: 2!=2"
-      color: white
-      fontSize: 32
-    body:
-      title: Extensive Abstract Math with some Informatics
-      description: [2!=2 Blog](https://chocobear.tistory.com/)
-      color: white
 ---
