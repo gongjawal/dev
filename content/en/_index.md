@@ -26,7 +26,7 @@ landing:
     text: "Updates"
     link: updates
     size: large
-  #buttons:
+  # buttons:
   #  - link: docs
   #    text: "Docs"
   #    color: '#FFFFFF'
@@ -101,7 +101,7 @@ sections:
       - subtitle: GSHS TeX Society
         subtitlePosition: center
         description: "Making TeX documents...."
-        image: "http://latex.gs.hs.kr/img/gshs-tex-society-logo.png"
+        image: images/cslab.png
         color: black
         button: 
           name: LATEX
@@ -113,7 +113,7 @@ sections:
       - subtitle: GSHS CSLAB
         subtitlePosition: center
         description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
-        image: "http://cslab.gs.hs.kr/assets/favicon.png"
+        image: images/latex.png
         color: black
         button: 
           name: CSLAB
