@@ -67,7 +67,6 @@ sections:
     description: "공자왈은 경기과학고등학교 37기 학생 몇몇이 운영하는 이공계 팀블로그입니다."
     header: 
       title: What is GongJaWal?
-      hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
     cards:
@@ -112,7 +111,6 @@ sections:
     description: "chocobear!"
     header:
       title: "Visit Out Original Blog: 2!=2"
-      hlcolor: DarkKhaki
       color: "#fff"
       fontSize: 32
     body:
