@@ -6,7 +6,7 @@ draft: false
 updatesBanner: "Visit Our Original Blog - &nbsp; [2!=2](https://chocobear.tistory.com/) &nbsp; just arrived"
 landing:
   height: 500
-  image: favicon/android-icon-192x192.png
+  image: favicon/gshs-192x192.png
   title:
     - GongJaWal
   text:
