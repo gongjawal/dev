@@ -14,22 +14,18 @@ landing:
   titleColor:
   textColor:
   spaceBetweenTitleText: 25k
-  buttons:
-    button: 
-      text: "Docs"
-      link: docs
-      size: large
-      target: _blank
-    button: 
-      text: "Blog"
-      link: blog
-      size: large
-      target: _blank
-    button: 
-      text: "Updates"
-      link: updates
-      size: large
-      target: _blank
+  button: 
+    text: "Docs"
+    link: docs
+    size: large
+  button: 
+    text: "Blog"
+    link: blog
+    size: large
+  button: 
+    text: "Updates"
+    link: updates
+    size: large
   #buttons:
   #  - link: docs
   #    text: "Docs"
@@ -105,7 +101,7 @@ sections:
       - subtitle: GSHS TeX Society
         subtitlePosition: center
         description: "Making TeX documents...."
-        image: http://latex.gs.hs.kr/img/gshs-tex-society-logo.png
+        image: "http://latex.gs.hs.kr/img/gshs-tex-society-logo.png"
         color: black
         button: 
           name: LATEX
@@ -117,7 +113,7 @@ sections:
       - subtitle: GSHS CSLAB
         subtitlePosition: center
         description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
-        image: http://cslab.gs.hs.kr/assets/favicon.png
+        image: "http://cslab.gs.hs.kr/assets/favicon.png"
         color: black
         button: 
           name: CSLAB
