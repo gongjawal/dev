@@ -3,7 +3,7 @@ title: GongJaWal
 description: Math, Natural Science & Engineering Blog
 date: 2020-01-26T04:15:05+09:00
 draft: false
-updatesBanner: "Visit Out Original Blog - &nbsp; [2!=2](https://chocobear.tistory.com/) &nbsp; just arrived"
+updatesBanner: "Visit Our Original Blog - &nbsp; [2!=2](https://chocobear.tistory.com/) &nbsp; just arrived"
 landing:
   height: 500
   image: favicon/android-icon-192x192.png
@@ -16,8 +16,11 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: "GongJaWal!"
-      color: primary
+      text: "Docs"
+    - link: blog
+      text: "Blog"
+    - link: updates
+      text: "Updates"
   # backgroundImage: 
   #   src: images/landscape.jpg
   #   height: 600
@@ -110,7 +113,7 @@ sections:
     type: normal
     description: "chocobear!"
     header:
-      title: "Visit Out Original Blog: 2!=2"
+      title: "Visit Our Original Blog: 2!=2"
       color: "#fff"
       fontSize: 32
     body:
