@@ -67,10 +67,21 @@ footer:
 
 sections:
   - type: normal
-    description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
+    description: ""
     color: black
     header: 
       title: What is GongJaWal?
+      color: black
+      fontSize: 32
+    body:
+      subtitle: " "
+      description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
+      color: black
+  - type: normal
+    description: " "
+    color: black
+    header: 
+      title: ""
       color: black
       fontSize: 32
   - type: card
