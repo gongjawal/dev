@@ -13,15 +13,31 @@ landing:
     - Math, Natural Science & Engineering Blog
   titleColor:
   textColor:
-  spaceBetweenTitleText: 25
+  spaceBetweenTitleText: 25k
   buttons:
-    - link: docs
-      text: "Docs"
-      color: '#FFFFFF'
-    - link: blog
-      text: "Blog"
-    - link: updates
-      text: "Updates"
+    button: 
+      name: "Docs"
+      link: docs
+      size: large
+      target: _blank
+    button: 
+      name: "Blog"
+      link: blog
+      size: large
+      target: _blank
+    button: 
+      name: "Updates"
+      link: updates
+      size: large
+      target: _blank
+  #buttons:
+  #  - link: docs
+  #    text: "Docs"
+  #    color: '#FFFFFF'
+  #  - link: blog
+  #    text: "Blog"
+  #  - link: updates
+  #    text: "Updates"
   # backgroundImage: 
   #   src: images/landscape.jpg
   #   height: 600
