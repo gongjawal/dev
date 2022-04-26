@@ -1,22 +1,22 @@
 ---
 title: GongJaWal
-description: 공대생과 자대생이 왈왈 짖는 블로그
+description: Math, Natural Science & Engineering Blog
 date: 2020-01-26T04:15:05+09:00
 draft: false
-# updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
+updatesBanner: "Visit Out Original Blog - &nbsp; [2!=2](https://chocobear.tistory.com/) &nbsp; just arrived"
 landing:
   height: 500
   image: favicon/android-icon-192x192.png
   title:
-    - Z Themes
+    - GongJaWal
   text:
-    - This is Hugo Z Themes documentation site
+    - Math, Natural Science & Engineering Blog
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: HUGO THEME ZDOC
+      text: "YES!"
       color: primary
   # backgroundImage: 
   #   src: images/landscape.jpg
@@ -58,69 +58,70 @@ footer:
     applySinglePageCss: false
     markdown:
       |
-      ## Zzo docs
-      Copyright © 2020. All rights reserved.
+      ## GongJaWal
+      Copyright © 2022. All rights reserved.
 
 sections:
   - bgcolor: teal
     type: card
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+    description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     header: 
-      title: Why Zdoc
+      title: What is GongJaWal?
       hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
       width: 220
     cards:
-      - subtitle: Performance
+      - subtitle: Gyeonggi Science High School
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue."
+        description: "Gyeonggi Science High School for the Gifted: The First, The Best"
         image: images/section/keyboard.png
         color: white
         button: 
-          name: Naver
-          link: https://gohugo.io/
+          name: GSHS
+          link: https://gs.hs.kr/
           size: large
           target: _blank
           color: 'white'
           bgcolor: '#283593'
-      - subtitle: Reliability
+      - subtitle: GSHS TeX Society
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+        description: "Making TeX documents...."
         image: images/section/processor.png
         color: white
         button: 
-          name: Google
-          link: https://gohugo.io/
+          name: LATEX
+          link: http://latex.gs.hs.kr/
           size: large
           target: _blank
           color: 'white'
           bgcolor: '#283593'
-      - subtitle: Productivity
+      - subtitle: GSHS CSLAB
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+        description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
         image: images/section/root-server.png
         color: white
         button: 
-          name: Yahoo
-          link: https://gohugo.io/
+          name: CSLAB
+          link: http://cslab.gs.hs.kr/
           size: large
           target: _blank
           color: 'white'
           bgcolor: '#283593'
   - bgcolor: DarkSlateBlue
     type: normal
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+    description: "chocobear!"
     header:
-      title: Build it with Zdoc
+      title: "Visit Out Original Blog: 2!=2"
+      link: https://chocobear.tistory.com/
       hlcolor: DarkKhaki
       color: "#fff"
       fontSize: 32
       width: 340
     body:
-      subtitle: Extensible and customizable.
+      subtitle: Extensive Abstract Math with some Informatics
       subtitlePosition: left
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+      description: "chocobear!"
       color: white
       image: images/section/root-server.png
       imagePosition: left
