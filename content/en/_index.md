@@ -3,7 +3,7 @@ title: GongJaWal
 description: Math, Natural Science & Engineering Blog
 date: 2020-01-26T04:15:05+09:00
 draft: false
-updatesBanner: "Visit Our Original Blog - &nbsp; [2!=2](https://chocobear.tistory.com/) &nbsp; just arrived"
+updatesBanner: "Visit Our Original Blog - &nbsp; [2!=2](https://chocobear.tistory.com/) &nbsp; Chocobear!"
 landing:
   height: 500
   image: favicon/gshs-192x192.png
@@ -16,17 +16,17 @@ landing:
   spaceBetweenTitleText: 25k
   buttons:
     button: 
-      name: "Docs"
+      text: "Docs"
       link: docs
       size: large
       target: _blank
     button: 
-      name: "Blog"
+      text: "Blog"
       link: blog
       size: large
       target: _blank
     button: 
-      name: "Updates"
+      text: "Updates"
       link: updates
       size: large
       target: _blank
@@ -93,7 +93,7 @@ sections:
       - subtitle: GSHS
         subtitlePosition: center
         description: "Gyeonggi Science High School for the Gifted: The First, The Best"
-        image: images/section/keyboard.png
+        image: favicon/gshs-192x192.png
         color: black
         button: 
           name: GSHS
@@ -105,7 +105,7 @@ sections:
       - subtitle: GSHS TeX Society
         subtitlePosition: center
         description: "Making TeX documents...."
-        image: images/section/processor.png
+        image: http://latex.gs.hs.kr/img/gshs-tex-society-logo.png
         color: black
         button: 
           name: LATEX
@@ -117,7 +117,7 @@ sections:
       - subtitle: GSHS CSLAB
         subtitlePosition: center
         description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
-        image: images/section/root-server.png
+        image: http://cslab.gs.hs.kr/assets/favicon.png
         color: black
         button: 
           name: CSLAB
