@@ -17,6 +17,7 @@ landing:
   buttons:
     - link: docs
       text: "Docs"
+      bgcolor: '#FFFFFF'
     - link: blog
       text: "Blog"
     - link: updates
@@ -65,12 +66,12 @@ footer:
       Copyright © 2022. All rights reserved.
 
 sections:
-  - bgcolor: teal
+  - bgcolor: '#EEEEEE'
     type: card
     description: "GongJaWal is a academic team blog, maintained by Gyeonggi Science High School Students (37th)"
     header: 
       title: What is GongJaWal?
-      color: '#fff'
+      color: black
       fontSize: 32
     cards:
       - subtitle: GSHS
@@ -84,7 +85,7 @@ sections:
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
+          bgcolor: '#EEEEEE'
       - subtitle: GSHS TeX Society
         subtitlePosition: center
         description: "Making TeX documents...."
@@ -96,7 +97,7 @@ sections:
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
+          bgcolor: '#EEEEEE'
       - subtitle: GSHS CSLAB
         subtitlePosition: center
         description: "GSHS CSLAB is the Computer Science Lab of GSHS. Expensive Servers!!"
@@ -108,19 +109,19 @@ sections:
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
-  - bgcolor: DarkSlateBlue
+          bgcolor: '#EEEEEE'
+  - bgcolor: white
     type: normal
     description: "chocobear!"
     header:
       title: "Visit Our Original Blog: 2!=2"
-      color: "#fff"
+      color: black
       fontSize: 32
     body:
       subtitle: Extensive Abstract Math with some Informatics
       subtitlePosition: left
       description: "chocobear!"
-      color: white
+      color: black
       image: images/section/root-server.png
       imagePosition: left
 ---
