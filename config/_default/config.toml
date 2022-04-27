@@ -1,6 +1,6 @@
 baseURL = "https://gongjawal.github.io/dev"
 title = "GongJaWal"
-theme = "zdoc"
+theme = "gongjawal-theme"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
