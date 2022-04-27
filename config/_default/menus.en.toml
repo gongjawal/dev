@@ -25,7 +25,7 @@
   weight = 4
 
 [[main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "blog"
+  identifier = "tags"
+  name = "tags"
+  url = "tags"
   weight = 4
