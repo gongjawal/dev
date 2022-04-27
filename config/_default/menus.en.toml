@@ -11,7 +11,26 @@
   weight = 2
 
 [[main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "blog"
+  identifier = "blog3"
+  name = "Blog3"
+  url = "blog3"
   weight = 3
+  
+[[main]]
+  identifier = "blog4"
+  name = "Blog4"
+  url = "blog4"
+  weight = 4
+  
+[[main]]
+  identifier = "blog5"
+  name = "Blog5"
+  url = "blog5"
+  weight = 5
+  
+[[main]]
+  identifier = "blog6"
+  name = "Blog6"
+  url = "blog6"
+  weight = 6
+  
