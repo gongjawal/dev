@@ -17,97 +17,13 @@
   weight = 3
   
 [[main]]
-  identifier = "blog4"
-  name = "Blog4"
-  url = "blog4"
+  identifier = "blog"
+  name = "Blog"
+  url = "blog"
   weight = 4
-  
+
 [[main]]
-  identifier = "blog5"
-  name = "Blog5"
-  url = "blog5"
-  weight = 5
-  
-[[main]]
-  identifier = "blog6"
-  name = "Blog6"
-  url = "blog6"
-  weight = 6
-  
-[[main]]
-  identifier = "blog6"
-  name = "Blog6"
-  url = "blog6"
-  weight = 6
-  
-  [[main]]
-  identifier = "blog6"
-  name = "Blog6"
-  url = "blog6"
-  weight = 6
-  
-  [[main]]
-  identifier = "blog7"
-  name = "Blog7"
-  url = "blog7"
-  weight = 7
-  
-  [[main]]
-  identifier = "blog8"
-  name = "Blog8"
-  url = "blog8"
-  weight = 8
-  
-  [[main]]
-  identifier = "blog9"
-  name = "Blog9"
-  url = "blog9"
-  weight = 9
-  
-    [[main]]
-  identifier = "blog9"
-  name = "Blog9"
-  url = "blog9"
-  weight = 9
-  
-    [[main]]
-  identifier = "blog10"
-  name = "Blog10"
-  url = "blog10"
-  weight = 10
-  
-    [[main]]
-  identifier = "blog11"
-  name = "Blog11"
-  url = "blog11"
-  weight = 11
-  
-    [[main]]
-  identifier = "blog12"
-  name = "Blog12"
-  url = "blog12"
-  weight = 12
-  
-    [[main]]
-  identifier = "blog13"
-  name = "Blog13"
-  url = "blog13"
-  weight = 13
-  
-    [[main]]
-  identifier = "blog14"
-  name = "Blog14"
-  url = "blog14"
-  weight = 14
-  
-    [[main]]
-  identifier = "blog15"
-  name = "Blog15"
-  url = "blog15"
-  weight = 15
-  
-    [[main]]
-  identifier = "blog16"
-  name = "Blog16"
-  url = "blog16"
-  weight = 16
+  identifier = "updates"
+  name = "Updates"
+  url = "updates"
+  weight = 4
